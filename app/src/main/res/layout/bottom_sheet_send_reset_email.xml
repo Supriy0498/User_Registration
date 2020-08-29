@@ -17,7 +17,7 @@
         android:layout_marginHorizontal="20dp"
         android:layout_marginTop="10dp"
         android:layout_gravity="center_horizontal"
-        android:text="Reset Password"
+        android:text="@string/reset_password"
         android:textColor="@color/colorPrimary"
         android:textSize="22sp"
         android:textStyle="bold"/>
@@ -31,7 +31,7 @@
         app:startIconContentDescription="email"
         android:layout_marginHorizontal="20dp"
         android:layout_gravity="center_horizontal"
-        android:hint="Enter your email">
+        android:hint="@string/enter_your_email">
         <com.google.android.material.textfield.TextInputEditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -46,7 +46,7 @@
         android:layout_marginTop="10dp"
         android:layout_marginBottom="20dp"
         android:layout_gravity="center_horizontal"
-        android:text="Send reset email"
+        android:text="@string/send_reset_email"
         android:paddingHorizontal="20dp"
         android:textStyle="bold"
         android:textColor="@android:color/white"

@@ -2,4 +2,19 @@
     <string name="app_name">User Registration</string>
     <string name="forgot_password">Forgot Password?</string>
     <string name="new_user_sign_up">New User?\nSign Up</string>
+    <string name="welcome">Welcome</string>
+    <string name="log_out">Log Out</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_phone_no">Enter your Phone No.</string>
+    <string name="enter_your_address">Enter your address</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="select_gender">Select Gender</string>
+    <string name="user_login">User Login</string>
+    <string name="log_in">Log In</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="send_reset_email">Send reset email</string>
 </resources>
