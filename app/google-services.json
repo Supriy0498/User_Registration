@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "687322896007",
+    "firebase_url": "https://user-registration-6b2a2.firebaseio.com",
+    "project_id": "user-registration-6b2a2",
+    "storage_bucket": "user-registration-6b2a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687322896007:android:a62014e4d26240468cca22",
+        "android_client_info": {
+          "package_name": "com.sjcoders.userregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687322896007-ki8hqb275ausiqrm9s7a708dhtvbc1qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBisMYsoi0BKyqCRvIwkXMfi-y1dmGnDt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687322896007-ki8hqb275ausiqrm9s7a708dhtvbc1qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

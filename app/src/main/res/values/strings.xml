@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">User Registration</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="new_user_sign_up">New User?\nSign Up</string>
+</resources>
